@@ -6,7 +6,7 @@ Security patches are prioritized for the current main branch.
 
 | Version | Supported       |
 | ------- | --------------- |
-| 1.0.x   |:White_check_mark|
+| 1.0.x   |:White_check_mark:|
 | < 1.0   | :x:             |
 
 ## Reporting a Vulnerability
